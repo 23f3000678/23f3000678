@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Welcome%20to%20My%20AI%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Welcome%20to%20My%20Git%20Hub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
