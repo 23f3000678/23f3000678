@@ -76,7 +76,7 @@
 
 ## ✦ Philosophy ✦
 
-> "AI should not just be powerful — it should be understandable."  
+> "AI should not just be powerful ,it should be understandable."  
 
 ✧ Building systems that think  
 ✧ Explaining systems that decide  
